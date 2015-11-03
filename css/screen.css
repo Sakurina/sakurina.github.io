@@ -1,0 +1,79 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: white;
+  color: black;
+  margin: 0px;
+}
+
+.wrapper {
+  max-width: 700px;
+  margin: auto;
+}
+
+a {
+  color: #2C5277;
+}
+a:hover {
+  color: #8AC4EC;
+}
+
+.date {
+  color: #E199C0;
+  font-size: 0.8em;
+}
+
+.posts {
+  list-style-type: none;
+}
+
+header {
+  padding: 12px;
+}
+
+header a {
+  color: #2C5277;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: 0.4em;
+}
+
+footer {
+  padding: 12px;
+  display: flex;
+  font-size: 0.8em;
+  align-items: center;
+}
+
+footer .about {
+  flex: 1;
+}
+
+article {
+  padding: 12px;
+  line-height: 1.4em;
+}
+
+.fourtone {
+  height: 10px;
+  display: flex;
+}
+
+.fourtone .a {
+  background-color: #EDE6F2;
+  flex: 1;
+}
+
+.fourtone .b {
+  background-color: #8AC4EC;
+  flex: 1;
+}
+
+.fourtone .c {
+  background-color: #E199C0;
+  flex: 1;
+}
+
+.fourtone .d {
+  background-color: #2C5277;
+  flex: 1;
+}

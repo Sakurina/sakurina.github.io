@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hello."
+---
+# Hello.
+
+I once tried to participate in NaNoWriMo. It didn't go so well, because it turns out I'm absolutely terrible at writing fiction. (I can't say I enjoy reading fiction that much either.)
+
+But what I was once arguably pretty good at was writing long articles about various tech-related things very few people *actually* cared about. Shortly after college, I found that my writing muscles had atrophied, and writing anything of meaningful length became a chore. It became much easier to get my thoughts out by saying them out loud than typing them into my text editor, and that's partly how our podcast *[Limitless Possibility][limipo]* came to be. But sometimes, there's just more I want to say that isn't appropriate for the podcast, or wouldn't be timely if I waited until my next episode to say it. Wouldn't it be nice if I had a place for these things? Wouldn't it be nice if I could get back into the writing groove?
+
+This is *Happy Monday System*, an experiment in which I try to write something every week, and put it up for your perusal every Monday. No restrictions on length, topic, or format. Who knows how long I'll be able to pull this off for, but I might as well give it a shot.
+
+[limipo]: http://limitlesspossibility.net

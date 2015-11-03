@@ -1,0 +1,11 @@
+# Site settings
+title: Happy Monday System
+email: kirbykirbykirby+hms@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hello.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://happymondaysystem.net" # the base hostname & protocol for your site
+twitter_username: happymondaysys
+
+# Build settings
+markdown: kramdown
