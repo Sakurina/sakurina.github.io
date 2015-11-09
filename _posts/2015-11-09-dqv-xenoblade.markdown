@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Rambling About JRPGs"
+---
+# Rambling About JRPGs
+
+Okay, so I was out drinking with a couple of friends around Hiyoshi Station in Yokohama one night back in February. I may have ordered one too many *kaku-highballs*. (It was more than just one too many.) Eventually, my friends realized I had very little to say about Japanese baseball, so someone had the great idea to change the topic of discussion to video games.
+
+I mentioned that this year, I'd be trying to play more games from the 8 and 16-bit eras, because I felt like I missed out on a lot of those growing up. One of the titles I mentioned wanting to try was *Dragon Quest V*, and that got the person next to me really fired up.
+
+"*Dragon Quest V*! It's the best game ever! No game has ever moved me as much as that game! Tell you what, you've never played it? I'll bring you my Super Famicom and my copy of the game that's lying around at home at our meetup next week and you can just have it!"
+
+<p align="center"><img src="/img/2015-11-09-kakuhigh.jpeg" srcset="/img/2015-11-09-kakuhigh.jpeg 1x, /img/2015-11-09-kakuhigh@2x.jpeg 2x"></p>
+
+I'm not sure how I got home that night. This wasn't an area of Yokohama I'd ever been to before and I have zero memory of riding the train home, but I do have a picture I tweeted to indicate that I made it home safely. Shortly after waking up in my bed the next day, I checked Twitter and found out that only two of the six of us made it home that night. The others apparently wound up one or two prefectures off from their intended destinations and were going to be showing up late for work that morning.
+
+A week later when everyone gathered together again, the guy didn't end up bringing his Super Famicom for me to bring home. He had no recollection of the conversation even happening in the first place. I didn't mind, because it's not like I had the free space in my luggage for a Super Famicom anyway.
+
+So anyway, *Dragon Quest V*. It's November 9th, 2015 and with a little less than two months to go in the year, I still haven't actually played it. I do have a copy of the Japanese DS version on the way, and hope to play through it pretty soon.
+
+In the meantime, I've been playing *Xenoblade* on the New Nintendo 3DS. I got *Xenoblade* after hearing many glowing recommendations, and also because I wanted to see what the N3DS was technically capable of when it didn't have to care about supporting the Old 3DS.
+
+The scale and art direction of the environments are nuts. These are large fleshed out environments that have distinct personalities, and the game rewards you for exploring them by showering you with experience whenever you find a new landmark. Much of the game appears to have you climbing vertically, and so you'll get to see previous areas you were in become smaller and smaller as you climb up. If you choose to jump down there, you'll see the areas truly are connected as you come crashing down. (You will probably lose all your health from the impact though.) The game also gives you a quick travel feature so you can jump to any landmark whenever you want, so the expansiveness of the world doesn't become a barrier to backtracking or completing side quests. From a technical point of view, it seems bonkers that they have such an expansive open world game running just fine on this hardware with practically no load times. If only the screen on this thing wasn't the lowest resolution screen in the entire house.
+
+The battle system is kinda inspired by modern MMOs. Enemies appear directly on the field, so you can choose to engage them if you'd like or avoid them if they seem over-levelled for you. You control one party member of your choice yourself, and the rest of the characters on your party are controlled by AI. The character you control auto attacks, and you have a number of special abilities on a cooldown you can trigger. Shulk's best abilities are tied to your position relative to the targeted enemy, but I found that it was sometimes difficult to tell if I was in front or behind a given enemy.  I also found the AI to do an incredibly crappy job of healing party members, which led me to just take over as healer duty and let the AI take down the baddies. The random battles, while definitely avoidable, seem to take forever even while making good use of your abilities and when the enemies are tiny and non-threatening.
+
+You can't really talk about *Xenoblade* without mentioning how long of a game it is. [How Long to Beat][hlb] has it listed at a whopping 67 hours just for a basic playthrough of the story, and way over that if you choose to indulge in the side quests. I think I would get burnt out on this game really quickly if I tried to binge my way through it, so instead I play for like an hour or two a night over a week, put it down for a few weeks, and then pick it back up. If you come back after a long break and forget where you need to be heading, there's a big *Crazy Taxi* arrow at the top of the screen guiding you in the right direction most of the time, so you can't really get lost or forget where your next objective is.
+
+If you were to ask me what the biggest draw to this game is, it's how interesting the world is. Two titans, the Bionis and the Mechonis, sprouted out of an endless ocean and fought for years. They managed to kill each other by delivering a simultaneous final blow, leaving their bodies locked in combat for eternity. Life bloomed on these titans' corpses and led to the present-day situation of Homs (Humans) living on the Bionis, and Mechons (robotic-looking creatures) living on the Mechonis, and they are at war with each other just like the good old days.
+
+Now yes, that setting is (pardon the expression) *anime as fuck*, but it's what leads to the diversity of the environments you can find, and to the verticality of the world, because you're *literally climbing the bodies of titans*.
+
+But the problem is, the story isn't anywhere near as interesting as that paragraph I wrote about the setting is. I find it hard to care about any of the characters I've met so far. The cutscenes are long and boring snoozefests. Maybe it gets better further along, but how many hours of this game am I going to have to play to find out if it was worth it or not?
+
+And as you can guess from my tone, I'm not a tremendous fan of the battle system. Yes, the battle system is novel and interesting, but I got tired of it about ten hours in. As someone who has primarily played turn-based JRPGs on 32-bit systems with battle speed set to max, battles just seem to drag on forever. Battles seem like they're tuned to last a reasonable length if you actively engage with the battle system, but it becomes mentally taxing to loop the same sequence of inputs on all the non-boss enemies, and even when you *do*, they still take too long. (*Final Fantasy XII* apparently has a similar battle system, except you can use gambits to script your characters to auto battle the way you want them to, which sounds interesting to my programmer brain, but I don't know if it would make battles significantly faster or just less tedious.)
+
+The game I want to be playing is not *Xenoblade*. I want to play a director's commentary version of *Xenoblade* where I can freely explore all these environments and activate little audio nodes explaining all the thought that went into designing the areas, highlight little details that may have gone unnoticed, and expand on the world that this game takes place in. Until that materializes (it won't), I'll be just fine with watching videos of the areas I haven't reached, reading up on the rest of the plot I'll be missing, and listening to the soundtrack from time to time. Or hopefully soon, playing *Dragon Quest V*.
+
+[hlb]: http://howlongtobeat.com/game.php?id=11401
