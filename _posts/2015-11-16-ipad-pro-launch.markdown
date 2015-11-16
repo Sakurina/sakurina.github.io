@@ -14,7 +14,7 @@ Not believing, while wrong, is not entirely without reason. How can you believe 
 
 As for refusing to give the iPad a shot, there are two big issues with this.
 
-The overwhelming majority of people in this world are change-averse when it comes to technology. People in the workplace have learned and established workflows on their PCs to get their job done reliably and consistently, and it's entirely possible that they struggled for years to get there if they aren't so tech-savvy. Moving to iPad would require them to throw most of their computing knowledge away and start over. Yeah, it would probably be a much simpler paradigm than to teach them than desktop computing, but there's still inertia, and that's a real hard sell.
+The overwhelming majority of people in this world are change-averse when it comes to technology. People in the workplace have learned and established workflows on their PCs to get their job done reliably and consistently, and it's entirely possible that they struggled for years to get there if they aren't so tech-savvy. Moving to iPad would require them to throw most of their computing knowledge away and start over. Yeah, it would probably be a much simpler paradigm than to teach them desktop computing, but there's still inertia, and that's a real hard sell.
 
 But it's an even tougher sell to make to the IT departments which often are responsible for buying this stuff. Not only would they need to retrain their workforce, but they're also going to have to relearn how to manage deployments of these devices because they aren't PCs running Windows. Hell, if I were in their position, the Microsoft Surface would sound really tempting on paper. (In practice, not really.)
 
