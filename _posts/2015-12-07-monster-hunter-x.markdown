@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Monster Hunter X Impressions"
+---
+# Monster Hunter X Impressions
+
+If you were trying to make a "best of" Monster Hunter title, you'd probably wind up with a lineup of monsters similar to the one found in *Monster Hunter X*.
+
+However, *Monster Hunter X* is more than merely a "best of" Monster Hunter game. MHX uses recycled content from past games in the series as a playground for playtesting new mechanics, and that is where all of the freshness with this game lies.
+
+Hunting skills, which are like super abilities that can be triggered once a gauge has been filled, are available now. These let you do devastating damage, provide buffs, or give you an invincible evade. Each of the 14 weapon classes can be played as 4 different styles: Guild, Striker, Aerial, Bushido. Guild is the Monster Hunter you know and love, whereas the other styles all make different tradeoffs. Striker gives you a more limited moveset in exchange for faster hunting skill gauge refill and the ability to equip 3 skills instead of 2. Aerial lets you roll into the monster to vault yourself into the air and deal damage while airborne. Bushido rewards players who are good at guarding and evading by giving them counter moves. The latter two have only one equippable hunting skill to compensate.
+
+In theory, these might seem like minor playstyle differences, but in practice, you may find yourself in love with one style and completely despise another. You will find yourself revisiting weapons you'd written off just to try all of their different styles out, and you might be surprised with what you end up using as your main weapon in the end. I went into MHX assuming I'd be playing Striker Lance, but really, Aerial Insect Glaive is just crazy fun to play with, so that's what I'm rolling with now.
+
+They've also changed up weapon upgrades. Weapons can be upgraded in two ways: levelling up and upgrading to a new weapon. Branches in your weapon's upgrade tree are gated by the level of your current weapon, and levelling up your weapon also increases its attack stat and sharpness. Upgrading to a new weapon will reset its progression to level 1, but will often have higher max stats at its highest level. The other big change comes with what materials are needed to upgrade your weapon. Previously, you'd need a specific set of materials to upgrade your weapon. Weapon upgrades still require specific items, but these are used to gate off higher level weapons until you've reached a map where these materials can be commonly found. Upgrading will also ask you for "upgrade points" from a specific category of items. Let's say upgrading my weapon asks me for 6 insects. You can give the blacksmith 6 of the lowest rarity insects and upgrade your weapon just fine. But if you have a stash of higher rarity insects, they can be worth 2 or 3 "upgrade points", and so you can hand over 3 or 2 of those insects respectively and upgrade your weapon. This is great, and assuming you gather resources on each map during at least one quest, you're probably going to be able to upgrade your weapon as soon as you open up the next difficulty.
+
+MHX has four different villages accessible in game, including my beloved Yukumo Village from *Monster Hunter Portable 3rd*. Each village has its own sidequests, and completing those sidequests will cause characters from other MH games to make cameos in those villages. They'll often give you quests on maps from the game they're from before you'd have unlocked that map in the game's story, giving you a head start on upgrading your gear.
+
+I'm a little over halfway through MHX's main story right now, and while some are lamenting its lack of endgame level content, there is plenty to do for the average player, and lots of new systems to play around with. I'm sold on the *Monster Hunter X* subseries and hope it continues into the future.
