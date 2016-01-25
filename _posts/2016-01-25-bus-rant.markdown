@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Path of Confusion"
+---
+
+# Path of Confusion
+
+So last week, I took a detour in my usual bus route home and picked up an iPad Pro. I'll have more to say about it [on the podcast][otp] a month from now after I've had more time to play with it, but tonight I'm using it to type out this rant about our local transit authority. Things have changed a lot since I last took the bus during college, and not for the better.
+
+Last time I took the bus during college, certain buses had started being equipped with TVs looping through ads, local news, and weather. Unfortunately, the PCs that were running the displays ran off of hard drives so most of them died after two weeks of rattling around, and the displays had very little benefit. These have been completely phased out. What has taken their place is an automated voiceover which announces the name of the next stop as well as a small electronic sign with two lines of text including the name of the next stop and the estimated time until the end of the line. But naturally, the data powering these things is inconsistent and wrong.
+
+The name of the bus line printed on the digital signage is inconsistent with the one displayed on the front of the bus. Both of the names refer to places in the same direction the bus is headed, but they're inconsistent and confusing, and if that wasn't bad enough, the name inside the bus changes at different points on the bus line as the name outside of the bus. Just in my daily 20 minute commute, the bus line has three different names depending on where you look and when. It's madness. The electronic sign shows an estimated amount of time until the end of the line, which would be nice if it actually was counting down to the end of the line, but it's not. It's counting down to the next bus terminal on the line. There's nothing wrong with counting down to the next bus terminal on the line, but it's misleading to say that it's counting down to the end of the line when it's not.
+
+The automated voiceover isn't very good either. The bus I commute to work in stops by Mauricie English Elementary School, and yet the voiceover claims we're going by Three Rivers Academy. Three Rivers Academy is quite a long way down the intersecting street at that stop, and if that wasn't bad enough, there actually is a stop right next to Three Rivers Academy on a completely different bus line. The voiceover is also wrong, stating that the next stop is "English secondary school", when clearly the stop is for an elementary school.
+
+All of this might seem really minor, but all of these imperfections add up to a really sloppy and confusing experience. And I haven't even mentioned all of the issues with their analog signage, which has just gotten more confusing as the schedule has become more complex.
+
+
+[otp]: http://limitlesspossibility.net
