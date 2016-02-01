@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Fall Harder"
+---
+
+# Fall Harder
+
+I've been over the iPad Pro's possible struggle to adoption [in the past][itp], but last week's Apple quarterly earnings call certainly seemed to confirm what I had feared. iPad sales continued to go down year over year during the financial quarter, which is particularly damning considering it's the iPad Pro's launch quarter. The average selling price also didn't budge very much, rising only by $6. It's not looking good.
+
+Unfortunately, last week, Panic also released their [annual report][ar] and it doesn't look like things are going well for developers of workhorse applications either:
+
+*"More and more I’m beginning to think we simply made the wrong type of apps for iOS — we made professional tools that aren’t really “in demand” on that platform — and that price isn’t our problem, but interest is."*
+
+Panic's iOS apps are super ambitious, their lineup includes an [IDE for building web sites][coda] (which I used years ago to write the initial version of [polyphonic room][pr], and used again this week to make a Web site template for a friend's project), an [FTP client][transmit], an [SSH client][prompt], and a [data visualisation dashboard][statusb]. Their apps are a delight to use, and they allow us to do things that most imagined the iPad would never do. To us who believe in the iPad as a productivity platform, the risk of having the very app developers making it a viable productivity platform clock out of the App Store is a frightening idea that could shake up our workflows even more than the initial switch over to iOS did.
+
+So what's causing the sales hit to iPads?
+
+Well, the iPhone 6 Plus has largely obviated the need for the iPad mini in the lineup. While I personally prefer having a pocketable device with as small a screen as possible while remaining useful, a lot of people seem to disagree with me. Because of the massive amount of iPhones sold compared to iPads, developers tend to prioritize development for it, if not developing exclusively for the phone altogether, so you can get a better app experience on a Plus-sized phone than on a mini-sized iPad. It also doesn't help that because of carrier subsidies, it can be cheaper to just buy a Plus-sized iPhone on contract than to buy just a base model of the most recent iPad mini.
+
+Another thing to consider is consumer confidence in the tablet category. How many people picked up a $60 generic Android tablet at the drugstore or a Kindle Fire to see if they'd like to have a tablet, had a terrible experience with it, and then completely wrote off the concept of tablets because they used a crappy one? If someone has a bad experience with an Android smartphone, they are much more likely to give the iPhone a chance in the future because most people view a phone as something they absolutely *must own*. Tablets have not proven to the mass market that they need to exist yet, so if you weren't satisfied with your first tablet, you're much less likely to start giving other tablets a shot in hopes of finding one that's great.
+
+But ultimately I keep coming back to friction. If the mini's market has been lost to Plus-sized phones, you are left with trying to sell the iPad Air (starting at $500) and the iPad Pro (starting at $800). You can get PC laptops for those prices. They'll be shitty PC laptops, sure, as is expected from any PC laptop under $1400, but you won't need to learn anything new and your existing workflow will continue to work. It just won't be very fast, the battery won't last very long, the build quality will be disappointing, and it'll come bundled with a ton of crapware you don't want.
+
+The iPad requires you to throw out most of the notions you've learned from traditional computing and replace them with new ones. Existing workflows for the things you do on a regular basis may be incredibly complicated to set up or not even exist yet. And the reward you get for sticking with the iPad isn't even more efficiency than if you were to get it done on a PC (aside from specific artistic and creative applications). Your reward is pleasure. If you are using the right iOS apps, the level of attention to detail and care that has gone into these applications go above and beyond anything you'll see on the Mac and the PC.
+
+The iPad's addressable market is software snobs. And if the PC wars have proven anything, it's that people sure don't give a fuck. See you next week.
+
+[itp]: http://happymondaysystem.net/2015/11/16/ipad-pro-launch.html
+[ar]: https://panic.com/blog/the-2015-panic-report/
+[pr]: http://polyphonicroom.net
+[coda]: https://panic.com/coda-ios/
+[transmit]: https://panic.com/transmit-ios/
+[prompt]: https://panic.com/prompt/
+[statusb]: https://panic.com/statusboard/
