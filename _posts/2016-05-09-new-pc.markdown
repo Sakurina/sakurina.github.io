@@ -1,0 +1,18 @@
+---
+layout: post
+title: "New PC"
+---
+
+# New PC
+
+I got a new PC at work this week. I went to lunch, came back, and a brand new tower was in its place.
+
+Prior to getting this job, it had been roughly five years since the last time I had to deal with a PC and honestly, it seems like nothing has really progressed in the PC world since. PCs are still gigantic and have cheap build quality. SSDs *still* aren't standard everywhere, and everyone is clinging to Windows 7 for as long as they possibly can just like they did with Windows XP. It feels like time traveling back 10 years.
+
+I realize The Enterprise probably isn't the best place to get a feel for what the state of the art in PCs are, but let's be honest: the majority of PCs that are being used are used in the enterprise, and as someone who works in software development, I am probably being spoiled compared to people in less technically demanding jobs.
+
+All of this really makes me appreciate the new MacBook more. Just like with the 2008 announcement of the original MacBook Air, Apple dared to make some crazy new hardware that defies the expectations of what someone would want out of a laptop, but I think they're not far off the mark of what everyone will be using maybe three years from now. Hell, the new MacBook is very much more like an iPad in what it *doesn't* have than what a Mac traditionally has.
+
+In fact, my problem with the MacBook has nothing to do with the ports it doesn't have, but rather its price point and performance. The current model of the MacBook is still being outperformed by last year's revision of the MacBook Air, which is still being sold at a lower price point. I realize there's a Retina display in the one-port MacBook and the machine is much sleeker than the MacBook Air, but if you're paying more than another product in the lineup, you'd probably like to think you're getting something that will perform better for most of your everyday tasks than the cheaper thing. This really isn't the case here, in fact, last year's model of the one-port MacBook was being outperformed by the 12-inch iPad Pro just a few months later, leaving us all to wonder why it didn't just ship with the same ARM processor in the first place.
+
+But regardless, it's hard to get excited about Traditional Computers anymore. PCs are just boring, and the only novelty reason to care about them is the birth of VR as a platform. Macs are slightly less boring, but nothing exciting is happening on the Mac anymore and all of the momentum behind new software is happening on iOS. As someone who's spending maybe less than an hour on the Mac a week now, other people's hyperbolic claims that the traditional computer is a dead platform are starting to sound reasonable.
