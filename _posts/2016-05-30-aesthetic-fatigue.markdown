@@ -10,7 +10,7 @@ title:  "Aesthetic Fatigue"
 iOS developers have only had to support two different graphical styles: before iOS 7 and after iOS 7. Android has had between three and four visual styles (depending on how you count) over the same timespan:
 
 * The [light][old] theme used from launch to Android 2.2 (Froyo)
-* The dark theme used *only* in Android 2.3 (Gingerbread). Whether or not you choose to count this one is up to you, as it was mostly just a recoloring of UI widgets.
+* The [dark][old2] theme used *only* in Android 2.3 (Gingerbread). Whether or not you choose to count this one is up to you, as it was mostly just a recoloring of UI widgets.
 * The [holo][holo] theme, which was originally introduced on [Android 3.0 (Honeycomb) tablets][holot], and came to phones a whole year later with Android 4.0 (Ice Cream Sandwich)
 * [Material Design][mat], which has been in active use since Android 5.0 (Lollipop)
 
