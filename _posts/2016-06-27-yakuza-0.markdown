@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Yakuza 0 First Impressions"
+---
+
+# Yakuza 0 First Impressions
+
+Back in 2011, [my friend Dan][dan] wrote a [pretty good post][post] recommending *Yakuza 4*, and it had always stood out to me as a game that sounds way more violent and edgy than what I usually go for, but something that I wanted to play one day.
+
+That day has come, as last week, I jumped into the deep end and bought not one but *two* games in the Yakuza series: *Yakuza 0*, a prequel taking place in the mid-1980s, and *Yakuza Kiwami*, a remake of the original game in the series built atop the prequel's engine. (The Western releases usually lag a few years behind the Japanese release schedule, so I'm playing the Japanese versions, as neither game is out right now in the West.)
+
+I've played about ten hours of Yakuza 0 so far and gotten through the first four chapters. If those numbers seem a little inflated, it's because the Yakuza series is known for having a wide range of sidequests and activities to play around with, and I might have gotten a bit carried away with a few of them. (My favorite so far is the one where you teach a dominatrix-in-training at the local S&M club to yell insults at masochists instead of being overly polite with them.)
+
+Yakuza 0 has two main protagonists, which are main characters in the remainder of the series: Kazuma Kiryu (in Kamurocho, the fictionalized red light district in Tokyo) and Goro Majima (in Soutenbori, likewise in Osaka). Every two chapters, your perspective shifts to the other character, and a short "previously on Yakuza 0" scene plays out to remind you where the story was when you last used that character. As a fan of the *Sakura Taisen* series, which does the opposite, by ending chapters of their games with "on the next Sakura Taisen" previews, as I appreciate this greatly.
+
+The presentation is fantastic. The series is known to make use of Japanese celebrities for voice acting, and characters are based off of 3D models of their voice actors' likenesses. Other games in the series have up to 295 minutes of cut scenes through which the game's story is told. If I have one complaint about what I've seen in Yakuza 0 so far is that there appear to be different tiers used for cutscenes: some are prerendered videos, some (mostly those that seamlessly transition into fight scenes) are rendered in engine, and long conversations are often rendered entirely in engine in a more dramatic visual novel-style presentation and no lipsyncing to the voice acting. The latter seems rather jarring and lazy in a game dripping with production value in every other respect of its story presentation.
+
+The fighting system was overhauled in Yakuza 0 to give each character four distinct fighting styles, which you can switch between using the directional pad at any time. This is a double-edged sword because some immediately jump out as having way more raw power, so you would be ineffective to choose anything else, but some of them, like Majima's break dancing style, are just too cool not to use from time to time. Combat is not particularly complicated, but comboing into heat actions never stops being immensely satisfying. You can level up each of your fighting styles by spending money instead of spending experience, but luckily, because this game takes place in the peak period of Japanese economic growth, there is no shortage of money to go around (in fact, it flies out of enemies while you're beating them up).
+
+I think I'm pretty sold on the Yakuza series. I'm really interested in figuring out what'll happen in the game's story (especially on Majima's side, as he is such an interesting character), which is not something I can say about most games I play, and I'm really looking forward to seeing how the same environments look twenty years later in Kiwami when I'm done with 0.
+
+[dan]: http://twitter.com/remy
+[post]: http://vjarmy.com/archives/2011/12/games-of-2011-yakuza-4.php
