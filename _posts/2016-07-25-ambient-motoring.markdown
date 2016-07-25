@@ -7,7 +7,7 @@ layout: post
 
 I've written in the past about this guy on YouTube, [BE5D1968][post], who uploaded videos of his commute while listening to jazz for several years. Unfortunately, I've had the time to burn through most of them since, and my thirst for more videos of people driving had to be quenched.
 
-A couple searches later I found ]blackvell20][bv20] on YouTube, which puts up regular videos of drives that are several hours long, occasionally with full 5.1 surround audio. Sometimes he is wandering around aimlessly around the Tokyo metropolitan area (in one video, he ran three laps around the Metropolitan Expressway before heading back home), and sometimes he's on a road trip with pals talking about their favorite idols, dropping in footage of the touristy things they do along every stop.
+A couple searches later I found [blackvell20][bv20] on YouTube, which puts up regular videos of drives that are several hours long, occasionally with full 5.1 surround audio. Sometimes he is wandering around aimlessly around the Tokyo metropolitan area (in one video, he ran three laps around the Metropolitan Expressway before heading back home), and sometimes he's on a road trip with pals talking about their favorite idols, dropping in footage of the touristy things they do along every stop.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j1EDNHMAP1U" frameborder="0" allowfullscreen></iframe>
 
