@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Broadcastability"
+---
+
+# Broadcastability
+
+One thing that's been on my mind recently is the broadcastability of e-sports.
+It's been on my mind since the ESPN2 broadcast of the EVO Street Fighter V finals. Street Fighter is a relatively simple game to explain to a random drive-by viewer. Each player has a character on screen, they have a health meter, and they need to attack the opponent to reduce the enemy health to zero. Yes, there are other mechanics such as EX moves, critical arts, V-skills, V-triggers, V-reversals, and even broader things like gauge management and character matchups. But in the case of fighting games, knowing the winning condition (getting the enemy health bar to zero) is usually sufficient to be able to follow the basic flow of the match.
+
+What if we shifted over to MOBAs though? MOBAs are far more complex games and can't really be summarized by their winning condition. Ostensibly all MOBAs are ultimately about destroying the enemy team's core/base/nexus, but if you take a look at how much time that objective occupies over the span of a 45 minute game, anyone watching a MOBA being played competitively for the first time is going to have no idea what is going on.
+
+So that brings up two questions: 1) how much do e-sport broadcasts need to assume that the viewer is unfamiliar with e-sports and 2) how do you balance the presentation of information to cater to both the casual and hardcore audiences?
+
+I imagine the primary reason e-sport broadcasts feel like they need to address first time viewers is that if they're on television at all, they're likely on a mainstream channel like a numbered ESPN or something like TBS, which is investing more heavily in e-sports with its ELEAGUE for CSGO. People tuning into those channels can't be assumed to have knowledge of e-sports, so if you want these broadcasts to be accessible to them at all, they will need a minimum amount of context to be able to follow along.
+
+The same could be said about "regular" sports, but what makes them different is that most popular sports are simply engraved into our cultural DNA, so if you can't figure out the gist of how a game is played by simply watching, the likelihood of someone near you being able to tell you what's going on is incredibly high. Will that ever happen to e-sports? It's hard to tell, because you don't see new "traditional" sports pop up every two to three years and becoming the new hotness, whereas there are new e-sports coming out all the time. Genre knowledge is probably what's going to help in the long term, but that isn't going to solve everything. You may know what a first-person shooter is, but the objectives in Counter-Strike: Global Offensive and the objectives in Overwatch are very different despite looking like they'd play in a similar way.
+
+Then there's the polarizing question of presentation. Last weekend, I went to my coworker Shannon's place and he showed me [a League of Legends match][lolm]. I hadn't ever seen any competitive League of Legends before, and I think 90% of the questions I asked over that match were about the insane spectator interface they use.
+
+The League of Legends spectator interface reminds me of staring at a [Bloomberg terminal][bbt], and I mean this in a backhanded compliment way. I think LoL's spectator mode does serve a purpose as being a capturable snapshot of everything that is happening in the game at that point in time. You see every statistic, every item, every cooldown on that screen, so regardless of where the camera is, you have a complete picture of what's going on on the battlefield, and that can be a huge tool for people who are interested in dissecting the minutia of the match. It's a shitty way to casually watch a game though, because you're overloaded with info, and you probably don't care about most of it. Riot Games realized they were a bit over the top, so they [announced a new broadcast-friendly spectator mode][lol2] a few months ago. It's definitely a lot more aesthetically pleasing, and packs a lot more information into a smaller area, so it's a good step in the right direction.
+
+But even the improved LoL spectator interface has the issue that if you're watching for the first time, you're unlikely to understand what any of the stats on that sidebar means. This is where I really appreciate the [custom spectator interface Blizzard made for the Heroes of the Dorm tournament][cust], which aired on ESPN2. Blizzard decided that the traditional MOBA formula was too inaccessible for new players, so they streamlined game systems a lot when developing Heroes of the Storm. This means their game is not only simpler to explain to new players or viewers, but it's much simpler to pack the things you need to know into a broadcast-friendly interface. HotS also has the advantage of having multiple maps with different secondary objectives, so there is an opportunity for them to remind viewers of those secondary objectives when introducing the map to be played. Other MOBAs don't have this luxury as they're always played on the same map and it would be downright patronizing to hardcore players if they repeated the secondary objectives on the map every single game.
+
+Broadcasting e-sports on television really is an interesting set of constraints to work against, and while there sadly doesn't seem to be a one size fits all solution, it's a cool problem to think about from time to time.
+
+[cust]: https://www.youtube.com/watch?v=GOXp-IsekZo
+[bbt]: https://en.wikipedia.org/wiki/Bloomberg_Terminal
+[lol2]: http://www.lolesports.com/en_US/articles/previewing-our-new-esports-hud
+[lolm]: https://www.youtube.com/watch?v=gGh0Xir2uPo
