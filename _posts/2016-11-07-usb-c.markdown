@@ -1,0 +1,25 @@
+---
+layout: post
+title: "USB-C(omplicated)"
+---
+
+# USB-C(omplicated)
+
+Continuing on [last week's post about the community's reaction to the new MacBook Pro][po], let's talk about the ports on this thing.
+
+Shortly after Apple introduced the multifunctional Lightning connector for iOS devices, replacing the thirty-pin connector after a decade of use, USB-C was unveiled to the world around the same time as the USB 3.1 specification. To be clear, USB-C defines the connector used for modern USB cables only, whereas USB 3.1 specifies the protocol with which devices communicate over USB cables. No one is really thrilled about needing to replace or adapt all of their peripherals once USB-C becomes commonplace, but the fantasy behind it is something quite logical: if USB becomes versatile enough to replace every other port on a computer, why not replace them all with USB-C ports? This way, you'd be able to use ports for whatever you need them to do instead of being locked in to what application-specific ports your computer had when you bought it.
+
+Now we get to the sad part where I need to tell you that this fantasy is greatly complicated by bad decisions taken in the USB-C specification. You see, devices on either end of a USB-C cable are not required to speak USB 3.1 or USB Power Delivery. Devices can speak other protocols on a USB-C cable through what's called "alternate modes". Of course, your computer might not have hardware support for that protocol, and that's a problem. If the promise of the USB-C connector is that it'll be used everywhere and allow for everything to be interoperable, this certainly undermines it.
+So here's an example, you buy a new laptop and want to get an external monitor for it that connects via USB-C. There are currently four different alternate modes which can handle hooking up to displays. How are you meant to know which your computer supports and which the monitor uses? If the monitor also behaves as a USB-C hub so it can be used as a docking station, do the USB-C ports in the monitor interfere with the interpretation of alternate modes?
+
+All of this shit is confusing to someone who works in the tech industry, let alone how normal people without a tech background are supposed to figure this out. People are going to look at the connector, buy something that has the same connector, and then act outraged when it doesn't work.
+
+The reason I'm going through all of this stuff is because the new MacBook Pro's four USB-C ports are also Thunderbolt 3 ports via its alternate mode. Thunderbolt 3 is a better technology for professional workflows, so I'm pretty sure there will be a ton of third-party accessories released for it that won't be compatible with many other computers with USB-C ports on the market today (including the 12-inch MacBook, whoops). USB-C has only been around since 2014 and I think it's already too late to salvage anything from this compatibility nightmare. I almost wish Apple had offered two vanilla USB-C ports and two Thunderbolt 3 ports with a new, proprietary connector to clearly denote the incompatibility.
+
+Something that comes to mind thinking about this is the RCA jack. RCA jacks have been used for analogue audio and video connectors for years, and at times, for incompatible standards. The way we avoided confusion with RCA jacks was to color-code them. Composite used yellow/white/red, and component used green/blue/red. Both sets of cables were exactly the same, save for the colors on the connectors. Nothing is stopping you from using a composite video cable to carry component video, all you need to do is plug them in the right places. The color coding served no other purpose than to prevent user confusion, and I think maybe we should see something similar for USB-C.
+
+Unfortunately, you couldn't really color-code the cables, because they're meant to be interchangeable. You could put little colored dots next to the USB-C ports on any device indicating which modes are supported and then as long as both devices have at least one matching dot, you can connect them to each other. This kind of solution would instantly resolve all of the issues in my earlier example about buying a monitor. Unfortunately, it comes at the cost of good aesthetics, and I'm sure I'm not alone in being irritated that computer companies will probably need to compromise their aesthetic to make up for a dumb mistake by the USB Implementers Forum.
+
+USB-C sounds promising in theory, but in practice it kinda falls apart, and I think some (but not all) of the blame falls on Apple for using the specification's loopholes to their advantage and muddying the water for everybody else.
+
+[po]: http://happymondaysystem.net/2016/10/31/struggle-for-pros.html
