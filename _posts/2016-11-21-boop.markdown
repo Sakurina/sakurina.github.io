@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Boop"
+---
+
 # Boop
 
 Overwatch got a new hero last week with the addition of Sombra to the roster on the live servers. People have been waiting for Sombra for a really long time, as she's been teased for almost the last year through a drawn-out and frustrating alternate reality game that didn't really accomplish anything but making people mad. But the patch as a whole came at such a weird time that it left me asking a few questions.
