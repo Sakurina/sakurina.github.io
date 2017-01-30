@@ -1,0 +1,17 @@
+---
+layout: post
+title: "2017"
+---
+
+# 2017
+
+Sure, it feels a little weird to be welcoming the new year a month into it, but I have finally returned home from my trip to Japan. It was a much-needed vacation, especially given the horrible way 2016 ended. 2017 is off to a bad start in current affairs, but creatively, it's off to a good start. Being in Japan always refuels my creative energy, and lots of stuff is in the works.
+
+* [Swan Song][ws], my series of videos covering the WonderSwan's software library in chronological order launched at the start of the month, and new episodes are coming every Saturday. The last video of the first batch focusing on launch titles went out over the weekend and I started editing the upcoming episode today. Hopefully the weekly pace won't kill me. (All of these videos have been edited on the iPad Pro, believe it or not.)
+* I'm drafting notes for three episodes of [Limitless Possibility][lp] at the moment, which is probably the most amount of episodes I've ever worked on at a given time. We haven't decided on a date the show will be returning on but [an announcement should be coming pretty soon][lpt].
+* I'd like to repurpose some of the code from my previous iOS app, Eos, to build myself a custom video player for the iPad. Due to iTunes sync becoming less and less reliable, I had switched to VLC a few years ago, but its video decoder does not preserve audio sync over Bluetooth headphones, which drives me nuts. Using the system's video decoding preserves audio sync over Bluetooth, at the expense of video format support. Given that I mostly just watch plain old MPEG-4 videos, VLC's format versatility isn't really that necessary for me.
+* This blog will be returning to its weekly schedule, offering commentary on the week's topical events if deemed appropriate, otherwise resorting to a backlog of evergreen topics.
+
+[lp]: http://limitlesspossibility.net/
+[lpt]: https://twitter.com/limipo_podcast
+[ws]: http://swansong.ws
