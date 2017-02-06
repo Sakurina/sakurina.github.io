@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Sega DotA"
+---
+
+# Sega DotA
+
+*Wonderland Wars* is a game I had been waiting a while to get my hands on. It launched in arcades a little bit before I left Japan when I went two years ago, but lines for the game were so long that I gave up on playing it. I would finally get my chance to play it a few weeks ago, and it turned out to be very interesting.
+
+At its core, it is a MOBA built for arcades. But anyone familiar with MOBAs will tell you that it doesn't seem like a good genre for an arcade environment. Games of League of Legends tend to last somewhere between 45 minutes and an hour, and even MOBAs designed with shorter match length in mind only tend to lower that to 20-30 minutes at best.
+
+In contrast, Wonderland Wars has a hard time limit of eight minutes per game. Each team has a global health bar which reflects the health of its structures on the map, and whichever team is ahead in health by the end of the game (if it's not decided within 8 minutes) wins. 
+
+While most MOBAs are played on a keyboard and mouse, with a few exceptions for controller (Smite, Paragon) and touchscreen (Vainglory), Wonderland Wars gives you an analog stick for character movement, a shoulder button of sorts to dodge, and a stylus for attacking and triggering skills. The stylus is cleverly tied into the game's setting, as you are a summoner with a magic fountain pen that can summon fairytale characters from the magic library to fight for you. Unlike most MOBAs, there is no notion of an auto attack here, you must manually attack in one of two ways. The *straight shot*, which is caused by dragging from your character in the direction you wish to attack, is a basic attack. The *draw shot*, which is caused by holding down the pen button and then drawing a line out from your character, is a piercing attack that follows the trajectory you drew for it, and gives you bonus experience if you chain piercing through multiple enemies.
+
+Both of these basic attacks are projectile-based, which means there's time for the opponent to react and move or dodge out of the way of your attacks. If you're used to other MOBAs with AoE attacks, auto-targeting or homing attacks, or attacks that merely require you to click on your target, this can be a little challenging at first. Not to mention, the travel time for many of the characters' projectiles is slow enough that predicting where your opponents will try to run to can end up being an asset here.
+
+Each player can hold on to five skill cards, which can be triggered by dragging them onto the map. Skills cost MP to use, and become unlocked once the team reaches a certain level. Similarly to Heroes of the Storm, the entire team levels up together as a unit, so there is no need to balance minion kills across multiple players to ensure everyone is around the same level.
+
+Skill cards are unfortunately obtained through a gacha system. At the end of every game, you are shown six cards within a pack of cards, which are shuffled off-screen, and then placed face-down in front of you. You can pick one card which you get to keep for free, and then if the card you chose wasn't the one you wanted, you can spend additional credits to pick another card until all six are gone. If you pick a duplicate card, it levels up the card you already own. Two things about this system suck. The first is that it's highly likely you will pick skills for heroes you don't own yourself and/or don't have the ability to obtain right now, which is shitty. The second is that this effectively makes the game pay-to-win. If some skill takes over the meta, you are at a disadvantage unless you spend enough money to get it yourself, and you may be at a disadvantage anyway if you haven't leveled it up as much as the other players.
+
+And this leads me to what makes this game seem even more absurd coming from PC and mobile MOBAs: all of those games are free-to-play, but Wonderland Wars still requires you to pay for each game. It's not cheap either. A single game costs $2, although it can drop to $1.25 per game if you decide to play four in a row (which is the max amount most arcades will let you play at once). I waited until the end of my trip to play Wonderland Wars because I was worried of the impact it might have on my wallet, and that turned out to be a good decision.
+
+The production value for Wonderland Wars is through the roof. The UI and menus are absolutely gorgeous, the soundtrack is wonderful, and the character art is quite nice as well. It's kind of surprising how polished this game is given how limited the audience for it is.
+
+One cool thing about the game is its satellite cabinet, the Wonderland Library, which lets you watch replays of your recent games and save them onto a USB drive for one credit. You can also use that cabinet to buy more cards while you wait for a game cabinet to be freed up.
+
+All of this makes Wonderland Wars a very interesting game on paper, but in practice, the changes made to it to adapt it for the arcade environment make it a less satisfying game to play. Whereas a regular game in a MOBA tends to end with either a convincing victory or a miraculous rebound, a regular game in Wonderland Wars is most likely to end due to the time limit, and then it's absolutely infuriating when the game is close because you both know it could have been anybody's game. While skill level ups tend to have only a minor impact on the effectiveness of the skill, a particularly close game may have you wondering if that minor impact was enough to secure them the win, but it's not like you can do anything to improve your own skill without throwing enough money at the game until it randomly happens. On top of that, you're paying for every game you're playing, when the game is simply not as fun as any of the free-to-play MOBAs available to you on PCs.
+
