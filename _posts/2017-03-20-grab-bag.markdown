@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Grab Bag"
+---
+
+# Grab Bag
+
+Nothing specific to talk about at length this week, so here's a grab bag of things:
+
+* **[Video editors on the iPad](http://happymondaysystem.net/2017/02/27/tech-difficulties-2.html):** After making a few videos in Pinnacle Pro, I've noticed that Pinnacle Pro shares the same weird audio glitching bug as iMovie does with regards to transitions, so I suspect the underlying AVFoundation framework these apps are written atop of is what's buggy. Luckily for me, it is much easier to avoid the issue there because transitions do not get automatically inserted between clips *and* the settings menu includes a button to flush out the cache, rerendering your project from scratch.
+* **[Overwatch patches](http://happymondaysystem.net/2017/03/13/tournament-realm.html):** To make matters even more confusing than they already were, it turns out a certain patch relating to Bastion nerfs was never made available to console Overwatch players, so in reality, there are currently four separate metas to juggle at once if you are a console player with interest in professional games. Not good. Things should get much simpler on Tuesday, as that's when the PTR patch is set to arrive to the live version of the game on both PCs and consoles. That should mean only 2 metagames to juggle (tournament and live) for the foreseeable future until the next test build goes out. I still would love to know when the tournament realm will get caught up.
+* At last, I finished Yakuza 0 [nine months after buying it](http://happymondaysystem.net/2016/06/27/yakuza-0.html). It was a great game, and I already have Yakuza Kiwami on standby for when I feel like playing it. Given recent and upcoming game releases though, I might not get to it until the Western release comes out by the end of the year. I don't want to spoil anything, but the ending did frustrate me, as I feel like something I had been waiting for the game to deliver on never came. Despite that, it was a ton of fun, and I highly recommend it.
+* Why does [this All I Want (The Offspring) and Snow Halation mashup](https://soundcloud.com/buymgs2/crazy-halation) work? I'm so angry
