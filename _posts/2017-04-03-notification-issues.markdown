@@ -1,0 +1,15 @@
+---
+title: "20170403"
+layout: post
+---
+
+Around the launch of the Apple Watch, I described it as a device I loved but wouldn't necessarily recommend. Since then, large steps were taken in the right direction. watchOS 1 apps were secretly faceless apps running on the iPhone the whole time, but displaying their interface on the watch. watchOS 2 shifted that around so apps ran entirely on the watch, increasing responsiveness and widening the scope of what was possible with apps. It wasn't really until watchOS 3 that the fundamentals of the Apple Watch were rethought to bring the user interface in line with what users were actually using their watches for.
+There are still some weird idiosyncrasies that really drive me crazy.
+
+One of them is that rich notifications need to be much better. Since the very first version of watchOS, it was possible for app developers to customize how notifications from their app are displayed when you raise your wrist. Unfortunately though, if you don't raise your wrist immediately, the rich notification body is tossed out, and you are then only capable of viewing a text summary of the notification. A good example of this would be messages sent over LINE. If you are sent an image or sticker and raise your wrist immediately, a rich notification will let you see it displayed inline. If you wait and bring up the notification from the notifications list, you'll be treated to a useless "Yanik sent you a sticker." forcing you to open the app to see the sticker in question.
+
+This is made ten times worse if the app in question hasn't been updated for recent versions of watchOS, which is unfortunately pretty likely. A lot of developers dismissed the Apple Watch as a platform when they wrote their watchOS 1 app and realized it was slow at molasses, and never decided to revisit the platform once it got much better. It's also possible to implement rich notification support *without* making a companion Apple Watch app, so in those cases, if you miss the rich notification, you've got to pull your phone out anyway.
+
+Another is that if you get multiple notifications from a third-party app at the same time, which commonly happens with group chat conversations, and you raise your wrist, you'll get to see a generic notification saying "You have 2 AppName notifications". Not very helpful, and because the original notification got eaten up before it was displayed to you, the rich notification body is gone as well. iMessage does this the right way, by collating notifications that occur between the user's wrist being lifted and the notification being visible into a single notification, but no API exists for third-parties to do the same thing in their apps.
+
+You don't know how good silent notifications are until you take your watch off while it's updating and you're faced with annoying chimes or a loud vibration motor. It's also much less intrusive to look at your wrist than having to pull out your phone and look at it. But for a device that is meant to excel at giving you notifications, it's still falling a bit short of where it needs to be.
