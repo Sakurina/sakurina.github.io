@@ -1,0 +1,20 @@
+---
+title: "The Mac Pro"
+layout: post
+---
+
+# The Mac Pro
+
+I've been told I can't do a [Limitless Possibility](http://limitlesspossibility.net) episode about the Mac Pro because my co-host Luc-Olivier is sick of hearing about the Mac Pro after listening to many, many hours of podcasts about it over past five months, so I'm gonna use this opportunity to talk about it.
+
+Criticism of the Mac Pro is plentiful these days, but I feel like one aspect of the computer has been largely ignored because the people doing the complaining aren't the people who would benefit from it. Apple fans keep talking about how integrated the hardware and software is, but for the most part, they're making really good general-purpose computing devices more than anything else.
+
+Part of why the 2013 Mac Pro gets so much criticism these days is because it kinda sucks as a general-purpose computer. How much does it suck? Current flagship phones can outperform it at certain benchmarks. But I'd argue that the 2013 Mac Pro is Apple hardware/software integration taken to the extreme, as no other computer can compete with the Mac Pro when it comes to running Final Cut Pro X, Apple's video editing suite.
+
+The bet, which unfortunately didn't pay off, was that building a computer custom-tailored to Final Cut Pro X's architecture and having it absolutely scream would not only benefit video editors today, but it would benefit professionals in other domains once the software they relied on would see the light and adopt a similar architecture.
+
+The unfortunate reality is that Final Cut Pro X had a [bad reputation due to its botched launch](http://limitlesspossibility.net/48), despite being a fabulous product, and most video editors jumped ship to competitors before Apple could get their shit together and deliver features that professionals relied on for their day-to-day work. I'm hoping the same thing doesn’t happen with the Mac Pro itself; Apple [has only said it's coming "not this year"](https://daringfireball.net/2017/04/the_mac_pro_lives) which gives pros plenty of time to scout out the Windows landscape and switch to PCs if they need more powerful general-purpose machines today.
+
+And developers didn't adopt the vision behind the Mac Pro, because why should they? As [Apple recently revealed](https://techcrunch.com/2017/04/06/transcript-phil-schiller-craig-federighi-and-john-ternus-on-the-state-of-apples-pro-macs/), Mac Pro is only 1% of all Macs, which are already a minority platform. If Apple ships a Mac Pro which runs your application *slower* than other Macs in the lineup, but could run much faster if you put significant investment into reworking your entire app, should you jump in blind or should you just play it safe and bet on the rest of the computing industry?
+
+So there you have it: perhaps there is such as thing as too much hardware/software integration. I have no doubts that the next Mac Pro will outperform the 2013 Mac Pro at pretty much everything, but I am very curious to see if the 2013 Mac Pro will outperform it for FCPX workloads just because of how the system was conceived.
