@@ -20,3 +20,7 @@ During the second round of the lower bracket finals, tournament organizers told 
 A few minutes after the stream ended, it was announced on Reddit that the lower bracket finals and grand finals were postponed yet again until Tuesday 5pm ET, presumably following discussion with the teams about what time would work for them.
 
 What a disaster. The organizers probably wanted the last Overwatch Monthly Melee to be memorable, but they definitely didn't intend for people to remember it because of issues like this.
+
+**edit 2:20pm:** It seems like the Monthly Melee finals have been re-re-rescheduled to Thursday 5pm. Not sure why, but this constant shifting of the date is sure to negatively impact viewership.
+
+Another thing I forgot to bring up in the original post is that patches go live every Tuesday, so postponing the tournament to after Tuesday means there is a chance of unexpected balance adjustments taking place. Being an online tournament, it isn't held on the tournament realm used for offline LAN events like APEX, and therefore this could have an impact on the results.
