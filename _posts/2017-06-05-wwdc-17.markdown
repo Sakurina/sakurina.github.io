@@ -1,0 +1,15 @@
+---
+title: "WWDC 17"
+layout: post
+---
+
+# WWDC 17
+
+The keynote ended about an hour ago, here are some quick thoughts on what happened:
+
+* watchOS has a new Siri watch face, which offers up a Google Now-like feed of contextually driven information. Android Wear having Google Now available at anytime with a swipe was just a great way to have the most relevant information at your fingertips. Apple Watch users have had to pre-build watch faces with all the information they thought they would want to glance at and switch between them, or go in and out of apps. Having this watch face means that, assuming Siri's contextual decisions are good, the most relevant information will always be in your face when you raise your wrist. Very excited about this feature.
+* A non-negligible amount of time in the keynote was spent reassuring the Mac fandom that their platform is still alive and headed in the right direction. Apple has had a bit of a PR crisis on their hands in the last 9 months with regards to stagnation and positioning of the Mac lineup, so it's nice to see them pull out the big guns and show creative pros and developers that they're back in the game.
+* The Photos app on the Mac seems to have gotten a sizeable upgrade when it comes to editing tools, bringing it more in line with what was available in Apple's discontinued professional photography app, Aperture. I'm looking forward to seeing how much of that has made its way into Photos on the iPad Pro, as I would much rather handle photo editing there.
+* The segment about the App Store redesign should have been cut, and probably left a bad taste in most developers' mouths. This is your yearly developer conference, and your audience consists of the biggest App Store critics out there. Hyping up a significant App Store announcement and then finding out it's just another redesign does nothing to resolve basic issues with how the App Store works against sustainable business models for developers of professional/productivity apps. The new design looks great, but just about every other app in iOS 11 has been redesigned to fit into the design language Apple Music pioneered last year, and none of them got any significant airtime during the keynote.
+* iOS 11 productivity enhancements for the iPad are very exciting for power users. I'm curious which features, if any, are gated off to iPad Pro users. The user base for the regular iPad and the iPad Pro are very different, and I feel like some of the new changes may make the system more complex for those with less demanding needs. This is the ultimate struggle iOS has to deal with in any update: iOS's simplicity is where it shines, but as more features get packed in to appeal to power users, it becomes more daunting for the more casual users. I will probably expand on this in the future once my thoughts are more fleshed out.
+* I wasn't expecting any hardware out of this event, but all of the hardware rumours proved to be true after all. Nothing about the software on any platform had leaked prior to the event aside from the iOS 11 Files app going up on the App Store prematurely late last night.
