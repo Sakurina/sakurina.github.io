@@ -6,18 +6,21 @@ title: "Files"
 # Files
 
 One of the more controversial iOS design decisions over the years has been the absence of an exposed file system.
- It is common knowledge in the tech industry that the majority of computer users try to manage their files as little as possible, often dumping all of their personal files onto the desktop, and only adhering to hierarchies if demanded of them. One of the key design decisions around iOS was to simply not expose a file system to users, and make documents manageable only within the app that created them.
- 
+
+It is common knowledge in the tech industry that the majority of computer users try to manage their files as little as possible, often dumping all of their personal files onto the desktop, and only adhering to hierarchies if demanded of them. One of the key design decisions around iOS was to simply not expose a file system to users, and make documents manageable only within the app that created them.
+
+
 While this simplified things greatly for less technically savvy users, people trying to use iOS as a primary computing platform were quick to complain about the limitations of this system. For decades, when you wanted to attach something to an email, it made sense that you'd do so through the email client. For years on iOS, you *couldn't* do that, because Mail had no window into other apps' documents. You had to switch to the app that contained the document you wanted to send, press the share button, choose mail, compose your email, and then press send. While it's understandable why the system was this way when you know the constraints that are in place, anyone who had ever attached anything to an email found it unnatural. And if you had two files living in different apps you wanted to send, you couldn't really do anything about it, and had to send them as separate emails.
- 
+
+
 My original theory was that Apple would eventually bake in a file picker to iOS piggybacking off of iTunes File Sharing. iTunes File Sharing is a feature that app developers can opt into that makes their apps' documents folder publicly visible through iTunes on a PC or Mac. The UI presented to you through iTunes was fairly simple; you picked an app from a list on the left, and a list view of the embedded documents would show up on the right. You could then pull files from that list, or drop in some documents from your computer. I just assumed that since developers of those apps had already opted in to having their documents visible, it wouldn't be that big of a jump to just make that public on the actual device as well.
- 
+
 That never happened. The closest we got was a few years ago with the arrival of iCloud Drive. The way iCloud Drive works by default is not unlike iTunes File Sharing; each app has their own documents folder in iCloud Drive. Unlike iTunes File Sharing, you can also move documents outside of those app folders and into arbitrary hierarchies like you could on a desktop computer. This was the first step *away* from the notion of not having a user-exposed file system.
- 
+
 On top of that, the iCloud Drive document picker also contained an extension point for document providers. Companies like Dropbox, Google Drive, or OneDrive could build iOS extensions into their apps that expose their own cloud services' documents, and they would be accessible from any application that had iCloud Drive support.
- 
+
 Last week, Apple threw in the towel and went all in to having a user-exposed file system in iOS by announcing the Files app for iOS 11. Files is a file manager that looks eerily similar to the Finder from macOS, and exposes a lot of stuff that had previously been exclusive to the Mac. Most of the existing document infrastructure in iOS only let you manage things once they were in the cloud in some way. A new section in the Files app called On My iPad now lets you manage documents available when offline. Document providers have been revamped so now all cloud services are exposed through a consistent UI instead of outsourcing that job to each cloud service. Tagging files is also now available on iOS after being available on the Mac for many years now.
- 
+
 I appreciate all of that functionality coming to iOS, but I feel like they've given up on reducing the complexity of file management for the average user. Many power users have been begging Apple to make a proper file management app for two years now, and Apple seems to have implemented that without asking themselves what the actual underlying issues we wanted solved were. Sure, these issues are solved with the introduction of the Files app, but at the cost of introducing all of the complexity of desktop file management and then some.
- 
+
 The Apple I love looks beyond the complaints and suggestions and finds an elegant solution to the underlying issues while fitting it into their existing vision. Last week, Apple threw their vision away, gave the loud people exactly what they wanted, and shafted a bunch of users in the process. Thumbs down.
